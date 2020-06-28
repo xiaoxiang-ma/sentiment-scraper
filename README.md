@@ -1,2 +1,2 @@
 # sentiment-scraper
-Twitter scraper that analyzes sentiment
+This will be a web scraper that would be incorporated into a herokuapp to display sentiment analysis.

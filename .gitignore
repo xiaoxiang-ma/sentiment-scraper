@@ -1,0 +1,6 @@
+credentials.py
+venv
+].DS_Store
+.env
+__pycache__
+.ipynb_checkpoints
